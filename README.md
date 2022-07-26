@@ -1,7 +1,7 @@
 # Students-Adaptivity-Level-on-Online-Education
 Exploratory Data Analysis and Machine Learning Prediction of Student Adaptivity Level on Online Education
 
-## Introducation
+## Introduction
 
 Online Education has become a buzzword since the COVID-19 hit the World. Most of the educational institutions went online to continue educational activities while developing countries like Bangladesh took a significant period of time to ensure online education at every education level. Students of several levels also faced many difficulties when they got introduced to online education. It is important for the decision makers of educational institutions to be informed about the effectiveness of online education so that they can take further steps to make it more beneficial for the students. Our main motivation is to contribute to this matter by analyzing the relevant factors associated with online education.
 
